@@ -3,7 +3,8 @@
 ## 前提准备
 1.拥有一个语雀知识库，记录知识库的Namespace
 
-例如你的知识库地址是https://www.yuque.com/xx-xx/xxxxx，namespace则为xx-xx/xxxxx
+例如你的知识库地址是https://www.yuque.com/xx-xx/xxxxx
+，则该知识库的namespace为xx-xx/xxxxx
 
 如果不想其他用户看到你的语雀知识库，请将知识库设置为私有，创建并记录你的token
 
