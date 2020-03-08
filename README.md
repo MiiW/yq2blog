@@ -1,4 +1,3 @@
-#yq2blog
 > yq2blog是一个利用webhook将语雀文档同步到博客的小工具
 
 ## 前提准备
